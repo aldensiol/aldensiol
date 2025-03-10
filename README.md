@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, my name's Alden</h1>
-<h3 align="center">A driven AI/ML developer</h3>
+<h3 align="center">A Penultimate Computing Student @NUS</h3>
 
-- 🔭 I’m currently interning in Tiktok, as a **Machine Learning Engineer**
+- I’m currently:
+  - 🔭 Interning in Tiktok, as a **Machine Learning Engineer.**
+  - 🌱 Learning **MCPs, MLA, RL, (and maybe more interestingly) Chess.**
 
-- 🌱 I’m currently learning **MCPs, MLA, RL, (and maybe more interestingly) Chess.**
-
-- 💬 Ask me anything about **matcha, music, and fragrances (or AI, if it tickles your fancy)**
+- 💬 Ask me anything about **matcha, music, and fragrances. (or AI, if it tickles your fancy)**
 
 - 📫 How to reach me: **aldensio@live.com**
 
