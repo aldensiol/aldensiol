@@ -2,7 +2,8 @@
 <h3 align="center">A Penultimate Computing Student @NUS</h3>
 
 - I’m currently:
-  - 🔭 Interning in Tiktok, as a **Machine Learning Engineer.**
+  - 🔭 Interning at TikTok 📱 as a **Machine Learning Engineer.**
+
   - 🌱 Learning **MCPs, MLA, RL, (and maybe more interestingly) Chess.**
 
 - 💬 Ask me anything about **matcha, music, and fragrances. (or AI, if it tickles your fancy)**
