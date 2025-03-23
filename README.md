@@ -1,13 +1,12 @@
 <h1 align="left">Hey, I'm Alden 👋</h1>
-<h3 align="left">Penultimate Computing Student @ NUS</h3>
 
 ### About Me
 - I’m currently:
   - 🏗 interning at TikTok as a Machine Learning Engineer  
-  - 📚 exploring MCPs, MLA, RL, and (more interestingly) Chess
+  - 📚 exploring MCP, MLA, RL, and (more interestingly) Chess
  
 - 🤖 Fascinated by generative models & autonomous agents  
-- 🎵 Ask me anything about matcha, music, and fragrances **(I have a spending problem)**
+- 🎵 Matcha, music, and fragrance connoisseur **(I have a spending problem)**
 
 ### 📫 Connect With Me  
 <a href="https://linkedin.com/in/aldensio" target="blank">
