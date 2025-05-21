@@ -2,7 +2,7 @@
 
 ### About Me
 - I’m currently:
-  - 🏗 interning at TikTok as a Machine Learning Engineer  
+  - 🏗 interning at TikTok as an Applied (AI) Scientist
   - 📚 exploring MCP, MLA, RL, and (more interestingly) Chess
  
 - 🤖 Fascinated by generative models & autonomous agents  
