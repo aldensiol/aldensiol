@@ -1,12 +1,11 @@
 <h1 align="left">Hey, I'm Alden 👋</h1>
 
 ### About Me
-- I’m currently:
-  - 🏗 interning at TikTok as an Applied (AI) Scientist
-  - 📚 exploring MCP, MLA, RL, and (more interestingly) Chess
+- 🏗 currently interning at TikTok as an **Applied AI Scientist**, working on large-scale content insight generation  
+- 📚 pivoting into **Machine Learning Engineering** work focused on AI infrastructure   
  
 - 🤖 Fascinated by generative models & autonomous agents  
-- 🎵 Matcha, music, and fragrance connoisseur **(I have a spending problem)**
+- 🎵 Matcha connoisseur, music enthusiast, and fragrance collector **(I have a spending problem)**
 
 ### 📫 Connect With Me  
 <a href="https://linkedin.com/in/aldensio" target="blank">
